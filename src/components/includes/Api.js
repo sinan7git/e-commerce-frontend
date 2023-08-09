@@ -1,0 +1,1 @@
+export const  BASE_URL = ("https://sinancr.pythonanywhere.com/api/v1/products/")
